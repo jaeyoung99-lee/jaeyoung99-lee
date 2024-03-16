@@ -25,4 +25,4 @@ Here are some ideas to get you started:
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=jaeyoung99-lee&theme=flat&column=8)](https://github.com/jaeyoung99-lee/)
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jaeyoung99-lee)](https://github.com/anuraghazra/github-readme-stats&range=all_time)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jaeyoung99-lee)](https://github.com/anuraghazra/github-readme-stats)
