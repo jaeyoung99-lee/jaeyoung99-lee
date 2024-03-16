@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jaeyoung99-lee&exclude_repo=jaeyoung99-lee.github.io&layout=compact&theme=blue-green width="42%")
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jaeyoung99-lee&exclude_repo=jaeyoung99-lee.github.io&layout=compact&theme=blue-green)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaeyoung99-lee&show_icons=true&theme=blue-green)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jaeyoung99-lee&theme=blue_green)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jaeyoung99-lee&theme=blue_green)
