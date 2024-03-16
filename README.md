@@ -23,4 +23,4 @@ Here are some ideas to get you started:
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jaeyoung99-lee&theme=blue_green)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jaeyoung99-lee&theme=blue_green)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=jaeyoung99-lee&theme=flat&column=4)](https://github.com/jaeyoung99-lee/)
+[![trophy](https://github-profile-trophy.vercel.app/?username=jaeyoung99-lee&theme=flat&column=8)](https://github.com/jaeyoung99-lee/)
