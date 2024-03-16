@@ -25,4 +25,4 @@ Here are some ideas to get you started:
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=jaeyoung99-lee&theme=flat&column=8)](https://github.com/jaeyoung99-lee/)
 
-![](./profile-3d-contrib/profile-green-animate.svg)
+![](./profile-3d-contrib/profile-season.svg)
